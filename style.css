@@ -1,0 +1,22 @@
+ul {
+    display:flex ;
+    justify-content:space-between ;
+}
+
+h2 {
+
+    text-align: center;
+}
+
+.yo {
+    border-color: #d9d4d2;
+    border-style: solid;
+    border-width: thin;
+background-color: #d9d4d2;
+
+}
+
+body {
+
+    background-color: #d9AE79 ;
+}
